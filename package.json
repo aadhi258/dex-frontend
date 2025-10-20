@@ -21,8 +21,25 @@
     "ethers": "^5.7.2",
     "hardhat": "^2.11.2",
     "next": "13.0.3",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "vite": "^7.1.11",
     "web3modal": "^1.9.9"
-  }
+  },
+  "description": "Enter the world of decentralized finance (DeFi) with our Uniswap Exchange clone, UniClone. This project focuses on replicating the functionalities of the popular decentralized exchange Uniswap, providing users with a seamless and efficient platform for swapping tokens, providing liquidity, and earning fees.",
+  "main": "hardhat.config.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daulathussain/Uniswap-Clone-Starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daulathussain/Uniswap-Clone-Starter/issues"
+  },
+  "homepage": "https://github.com/daulathussain/Uniswap-Clone-Starter#readme"
 }
